@@ -1,5 +1,5 @@
 {
-  "name": "template-ascensor-route",
+  "name": "loader",
   "version": "0.0.0",
   "description": "template to start with angularjs",
   "main": "Gruntfile.js",
